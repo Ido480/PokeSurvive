@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2de6b1ae70ab36a4f9c8512a21151dd7, type: 3}
+  m_Name: Data_AreaWeapon
+  m_EditorClassIdentifier: Assembly-CSharp::WeaponData
+  weaponName: Area Weapon
+  icon: {fileID: 21300000, guid: edc54171ca3b61547b76c9899c610acb, type: 3}
+  description: 
+  levels:
+  - cooldown: 5
+    duration: 2
+    damage: 12
+    range: 0.7
+    speed: 0.5
+    amount: 1
+    levelDescription: Increased range
+  - cooldown: 4.8
+    duration: 2.1
+    damage: 14
+    range: 0.7
+    speed: 0.48
+    amount: 1
+    levelDescription: +Faster Cooldown+duration+damage+speed
+  - cooldown: 4.5
+    duration: 2.2
+    damage: 14
+    range: 0.8
+    speed: 0.45
+    amount: 1
+    levelDescription: +Faster Cooldown+duration+range+speed
+  - cooldown: 4.2
+    duration: 2.3
+    damage: 16
+    range: 0.8
+    speed: 0.42
+    amount: 1
+    levelDescription: +Faster Cooldown+duration+damage+speed
+  - cooldown: 4
+    duration: 2.5
+    damage: 20
+    range: 0.85
+    speed: 0.4
+    amount: 1
+    levelDescription: +Faster Cooldown+duration+damage+range+speed
+  - cooldown: 3.8
+    duration: 2.6
+    damage: 20
+    range: 0.9
+    speed: 0.35
+    amount: 1
+    levelDescription: +Faster Cooldown+duration+range+speed
+  - cooldown: 3.5
+    duration: 2.8
+    damage: 24
+    range: 0.9
+    speed: 0.35
+    amount: 1
+    levelDescription: +Faster Cooldown+duration+damage
+  - cooldown: 3.2
+    duration: 2.8
+    damage: 28
+    range: 0.9
+    speed: 0.35
+    amount: 1
+    levelDescription: +Faster Cooldown+damage
+  - cooldown: 3.2
+    duration: 2.8
+    damage: 32
+    range: 1
+    speed: 0.3
+    amount: 1
+    levelDescription: +Faster Cooldown+damage+range+speed
+  - cooldown: 2.5
+    duration: 2.5
+    damage: 45
+    range: 1.2
+    speed: 0.2
+    amount: 1
+    levelDescription: MORE OF EVERYTHING

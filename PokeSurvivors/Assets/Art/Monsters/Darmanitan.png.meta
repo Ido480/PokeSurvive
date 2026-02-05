@@ -1,0 +1,1534 @@
+fileFormatVersion: 2
+guid: 5038fbae58a6b9e40a258433f56915e1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2720642536099270952
+    second: Darmanitan_0
+  - first:
+      213: 5150925591216997494
+    second: Darmanitan_1
+  - first:
+      213: 539909675049312302
+    second: Darmanitan_2
+  - first:
+      213: 3047888722594887112
+    second: Darmanitan_3
+  - first:
+      213: 4440134630140670844
+    second: Darmanitan_4
+  - first:
+      213: -4353027778403040382
+    second: Darmanitan_5
+  - first:
+      213: -8407814002463472915
+    second: Darmanitan_6
+  - first:
+      213: -630098039003375773
+    second: Darmanitan_7
+  - first:
+      213: -8108580991131618196
+    second: Darmanitan_8
+  - first:
+      213: 2081267188494563533
+    second: Darmanitan_9
+  - first:
+      213: 5380173243181240960
+    second: Darmanitan_10
+  - first:
+      213: 6436450837688341311
+    second: Darmanitan_11
+  - first:
+      213: -2353298897618771424
+    second: Darmanitan_12
+  - first:
+      213: -1272564730491559385
+    second: Darmanitan_13
+  - first:
+      213: 6171642677599908731
+    second: Darmanitan_14
+  - first:
+      213: 6320429788474710853
+    second: Darmanitan_15
+  - first:
+      213: -1300626862037141880
+    second: Darmanitan_16
+  - first:
+      213: 1733425270138972306
+    second: Darmanitan_17
+  - first:
+      213: 2259934280284153701
+    second: Darmanitan_18
+  - first:
+      213: -4078635628439901885
+    second: Darmanitan_19
+  - first:
+      213: -7820011715484071182
+    second: Darmanitan_20
+  - first:
+      213: -1311171995556109539
+    second: Darmanitan_21
+  - first:
+      213: 3074680352079104596
+    second: Darmanitan_22
+  - first:
+      213: -9202846279411719934
+    second: Darmanitan_23
+  - first:
+      213: -8651132942437192520
+    second: Darmanitan_24
+  - first:
+      213: -5939826252528392420
+    second: Darmanitan_25
+  - first:
+      213: 6914821007036252444
+    second: Darmanitan_26
+  - first:
+      213: -1507462747276816492
+    second: Darmanitan_27
+  - first:
+      213: -8808210474912609943
+    second: Darmanitan_28
+  - first:
+      213: -333800003627737062
+    second: Darmanitan_29
+  - first:
+      213: -3057816585957489480
+    second: Darmanitan_30
+  - first:
+      213: -7370597742502307692
+    second: Darmanitan_31
+  - first:
+      213: -5690662665446917691
+    second: Darmanitan_32
+  - first:
+      213: 4051600510172955932
+    second: Darmanitan_33
+  - first:
+      213: -4139686901012602728
+    second: Darmanitan_34
+  - first:
+      213: -1182352979735773327
+    second: Darmanitan_35
+  - first:
+      213: -4542687947091125013
+    second: Darmanitan_36
+  - first:
+      213: -8199499585968629024
+    second: Darmanitan_37
+  - first:
+      213: 9025269977187791077
+    second: Darmanitan_38
+  - first:
+      213: -4226897308534942734
+    second: Darmanitan_39
+  - first:
+      213: -4666804793508861928
+    second: Darmanitan_40
+  - first:
+      213: -5515076563607476136
+    second: Darmanitan_41
+  - first:
+      213: -7614506973222072761
+    second: Darmanitan_42
+  - first:
+      213: -272883001269924894
+    second: Darmanitan_43
+  - first:
+      213: 1871305248717520314
+    second: Darmanitan_44
+  - first:
+      213: -1461135853808493281
+    second: Darmanitan_45
+  - first:
+      213: 3245953137350093611
+    second: Darmanitan_46
+  - first:
+      213: -8493303503040093283
+    second: Darmanitan_47
+  - first:
+      213: 3278520446147451141
+    second: Darmanitan_48
+  - first:
+      213: 3232899444367374430
+    second: Darmanitan_49
+  - first:
+      213: 8739766032568980278
+    second: Darmanitan_50
+  - first:
+      213: 4489797192794184942
+    second: Darmanitan_51
+  - first:
+      213: 7840112617747160143
+    second: Darmanitan_52
+  - first:
+      213: 5330976484180156455
+    second: Darmanitan_53
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Darmanitan_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 371
+        width: 58
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 821d305d8f9a1c520800000000000000
+      internalID: 2720642536099270952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darmanitan_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 295
+        width: 65
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67445f0d883cb7740800000000000000
+      internalID: 5150925591216997494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darmanitan_2
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 371
+        width: 59
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e206c182df42e7700800000000000000
+      internalID: 539909675049312302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darmanitan_3
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 371
+        width: 59
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c5ff2115a64c4a20800000000000000
+      internalID: 3047888722594887112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darmanitan_4
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 371
+        width: 59
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c73f178dbe68e9d30800000000000000
+      internalID: 4440134630140670844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darmanitan_5
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 371
+        width: 59
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28301e28c40f693c0800000000000000
+      internalID: -4353027778403040382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darmanitan_6
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 371
+        width: 59
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de20c9516b1715b80800000000000000
+      internalID: -8407814002463472915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darmanitan_7
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 371
+        width: 59
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36798830c217147f0800000000000000
+      internalID: -630098039003375773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darmanitan_8
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 371
+        width: 59
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c647d17bc88887f80800000000000000
+      internalID: -8108580991131618196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darmanitan_9
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 372
+        width: 59
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc8f4ec1b7522ec10800000000000000
+      internalID: 2081267188494563533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darmanitan_10
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 372
+        width: 59
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08211ed2f073aaa40800000000000000
+      internalID: 5380173243181240960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darmanitan_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 295
+        width: 65
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f33dda26fedd25950800000000000000
+      internalID: 6436450837688341311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darmanitan_12
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 226
+        width: 68
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0226d15fe17675fd0800000000000000
+      internalID: -2353298897618771424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darmanitan_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 215
+        width: 64
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7222c55be11f65ee0800000000000000
+      internalID: -1272564730491559385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darmanitan_14
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 215
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b73bbf6015416a550800000000000000
+      internalID: 6171642677599908731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darmanitan_15
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 215
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54b15d1d76da6b750800000000000000
+      internalID: 6320429788474710853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darmanitan_16
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 215
+        width: 48
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 886f1fe82ce33fde0800000000000000
+      internalID: -1300626862037141880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darmanitan_17
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 226
+        width: 68
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 298a15f591d5e0810800000000000000
+      internalID: 1733425270138972306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darmanitan_18
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 222
+        width: 50
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 567a0181146ec5f10800000000000000
+      internalID: 2259934280284153701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darmanitan_19
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 222
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34966966186c567c0800000000000000
+      internalID: -4078635628439901885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darmanitan_20
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 220
+        width: 55
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2facd27e6ccb97390800000000000000
+      internalID: -7820011715484071182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darmanitan_21
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 220
+        width: 55
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1320755408cdcde0800000000000000
+      internalID: -1311171995556109539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darmanitan_22
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 215
+        width: 65
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45a4c876d757baa20800000000000000
+      internalID: 3074680352079104596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darmanitan_23
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 215
+        width: 65
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 201a321511ce84080800000000000000
+      internalID: -9202846279411719934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darmanitan_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 141
+        width: 58
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bce95dac6001f780800000000000000
+      internalID: -8651132942437192520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darmanitan_25
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 141
+        width: 59
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c17618e6e7f719da0800000000000000
+      internalID: -5939826252528392420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darmanitan_26
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 145
+        width: 61
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c110ec1d11166ff50800000000000000
+      internalID: 6914821007036252444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darmanitan_27
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 145
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49f4e644e9a641be0800000000000000
+      internalID: -1507462747276816492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darmanitan_28
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 145
+        width: 64
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96985ffad33f2c580800000000000000
+      internalID: -8808210474912609943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darmanitan_29
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 145
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a10aebd4aaa1e5bf0800000000000000
+      internalID: -333800003627737062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darmanitan_30
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 145
+        width: 63
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b4c4bd14047095d0800000000000000
+      internalID: -3057816585957489480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darmanitan_31
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 145
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4989adf776066b990800000000000000
+      internalID: -7370597742502307692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darmanitan_32
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 145
+        width: 63
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c97579c474b601b0800000000000000
+      internalID: -5690662665446917691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darmanitan_33
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 145
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1586ac923d2a3830800000000000000
+      internalID: 4051600510172955932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darmanitan_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 52
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8906ecf42b0ec86c0800000000000000
+      internalID: -4139686901012602728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darmanitan_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5
+        width: 52
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17f79b3ba30779fe0800000000000000
+      internalID: -1182352979735773327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darmanitan_36
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 72
+        width: 53
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bec5f2c516125f0c0800000000000000
+      internalID: -4542687947091125013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darmanitan_37
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 72
+        width: 53
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ea9062c196853e80800000000000000
+      internalID: -8199499585968629024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darmanitan_38
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 5
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e0b640f933304d70800000000000000
+      internalID: 9025269977187791077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darmanitan_39
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 72
+        width: 53
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f358befa4b0755c0800000000000000
+      internalID: -4226897308534942734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darmanitan_40
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 72
+        width: 53
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81860de14cd2c3fb0800000000000000
+      internalID: -4666804793508861928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darmanitan_41
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 72
+        width: 53
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8582815e5138673b0800000000000000
+      internalID: -5515076563607476136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darmanitan_42
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 72
+        width: 63
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74e0d515046d35690800000000000000
+      internalID: -7614506973222072761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darmanitan_43
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 72
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eb401c2b56863cf0800000000000000
+      internalID: -272883001269924894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darmanitan_44
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 5
+        width: 53
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abdb128853638f910800000000000000
+      internalID: 1871305248717520314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darmanitan_45
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 5
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1d5821bea009bbe0800000000000000
+      internalID: -1461135853808493281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darmanitan_46
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 5
+        width: 71
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2b215d3e21fb0d20800000000000000
+      internalID: 3245953137350093611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darmanitan_47
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 5
+        width: 71
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d93e6b3a679b12a80800000000000000
+      internalID: -8493303503040093283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darmanitan_48
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 5
+        width: 83
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5095975b9f4af7d20800000000000000
+      internalID: 3278520446147451141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darmanitan_49
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 5
+        width: 83
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5833108ae09ddc20800000000000000
+      internalID: 3232899444367374430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darmanitan_50
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 3
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6339c4fb6e2e94970800000000000000
+      internalID: 8739766032568980278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darmanitan_51
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 3
+        width: 64
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eec1b0642c6fe4e30800000000000000
+      internalID: 4489797192794184942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darmanitan_52
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 0
+        width: 59
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4c90eb13ecadcc60800000000000000
+      internalID: 7840112617747160143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Darmanitan_53
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 0
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 720e48d1ede6bf940800000000000000
+      internalID: 5330976484180156455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Darmanitan_0: 2720642536099270952
+      Darmanitan_1: 5150925591216997494
+      Darmanitan_10: 5380173243181240960
+      Darmanitan_11: 6436450837688341311
+      Darmanitan_12: -2353298897618771424
+      Darmanitan_13: -1272564730491559385
+      Darmanitan_14: 6171642677599908731
+      Darmanitan_15: 6320429788474710853
+      Darmanitan_16: -1300626862037141880
+      Darmanitan_17: 1733425270138972306
+      Darmanitan_18: 2259934280284153701
+      Darmanitan_19: -4078635628439901885
+      Darmanitan_2: 539909675049312302
+      Darmanitan_20: -7820011715484071182
+      Darmanitan_21: -1311171995556109539
+      Darmanitan_22: 3074680352079104596
+      Darmanitan_23: -9202846279411719934
+      Darmanitan_24: -8651132942437192520
+      Darmanitan_25: -5939826252528392420
+      Darmanitan_26: 6914821007036252444
+      Darmanitan_27: -1507462747276816492
+      Darmanitan_28: -8808210474912609943
+      Darmanitan_29: -333800003627737062
+      Darmanitan_3: 3047888722594887112
+      Darmanitan_30: -3057816585957489480
+      Darmanitan_31: -7370597742502307692
+      Darmanitan_32: -5690662665446917691
+      Darmanitan_33: 4051600510172955932
+      Darmanitan_34: -4139686901012602728
+      Darmanitan_35: -1182352979735773327
+      Darmanitan_36: -4542687947091125013
+      Darmanitan_37: -8199499585968629024
+      Darmanitan_38: 9025269977187791077
+      Darmanitan_39: -4226897308534942734
+      Darmanitan_4: 4440134630140670844
+      Darmanitan_40: -4666804793508861928
+      Darmanitan_41: -5515076563607476136
+      Darmanitan_42: -7614506973222072761
+      Darmanitan_43: -272883001269924894
+      Darmanitan_44: 1871305248717520314
+      Darmanitan_45: -1461135853808493281
+      Darmanitan_46: 3245953137350093611
+      Darmanitan_47: -8493303503040093283
+      Darmanitan_48: 3278520446147451141
+      Darmanitan_49: 3232899444367374430
+      Darmanitan_5: -4353027778403040382
+      Darmanitan_50: 8739766032568980278
+      Darmanitan_51: 4489797192794184942
+      Darmanitan_52: 7840112617747160143
+      Darmanitan_53: 5330976484180156455
+      Darmanitan_6: -8407814002463472915
+      Darmanitan_7: -630098039003375773
+      Darmanitan_8: -8108580991131618196
+      Darmanitan_9: 2081267188494563533
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

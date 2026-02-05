@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eabfde241da44f64999f969fed387f90, type: 3}
+  m_Name: Data_Dialga
+  m_EditorClassIdentifier: Assembly-CSharp::EnemyData
+  enemyName: Dialga
+  maxHealth: 18000
+  moveSpeed: 2
+  damage: 55
+  expValue: 4000
+  pushTime: 0
+  prefab: {fileID: 8199066111570380028, guid: f7e532f9c006614429963b68fbd4ba20, type: 3}
+  coinValue: 500
+  dropChance: 100

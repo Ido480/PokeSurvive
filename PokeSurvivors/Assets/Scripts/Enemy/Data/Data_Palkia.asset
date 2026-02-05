@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eabfde241da44f64999f969fed387f90, type: 3}
+  m_Name: Data_Palkia
+  m_EditorClassIdentifier: Assembly-CSharp::EnemyData
+  enemyName: Palkia
+  maxHealth: 22000
+  moveSpeed: 2.4
+  damage: 65
+  expValue: 5000
+  pushTime: 0
+  prefab: {fileID: 5432409152729224471, guid: d331af15590ab144d8989248d4453ef6, type: 3}
+  coinValue: 600
+  dropChance: 100

@@ -1,0 +1,2028 @@
+fileFormatVersion: 2
+guid: 5e0881800bbad3d46a896f1963c4c054
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2529734167690104256
+    second: Volcarona_0
+  - first:
+      213: -1914072059969359895
+    second: Volcarona_1
+  - first:
+      213: -7089898879047302989
+    second: Volcarona_2
+  - first:
+      213: -1496856637028477726
+    second: Volcarona_3
+  - first:
+      213: -3246354575319848994
+    second: Volcarona_4
+  - first:
+      213: -1203612275835448658
+    second: Volcarona_5
+  - first:
+      213: -3659062139411295672
+    second: Volcarona_6
+  - first:
+      213: 5604102818245724731
+    second: Volcarona_7
+  - first:
+      213: -5654948213534500118
+    second: Volcarona_8
+  - first:
+      213: 2364257097680837443
+    second: Volcarona_9
+  - first:
+      213: -2086457338881872298
+    second: Volcarona_10
+  - first:
+      213: 4593812385304801331
+    second: Volcarona_11
+  - first:
+      213: -3769955116980289814
+    second: Volcarona_12
+  - first:
+      213: -7068874192123703841
+    second: Volcarona_13
+  - first:
+      213: -4536699517917019705
+    second: Volcarona_14
+  - first:
+      213: -243843489553551300
+    second: Volcarona_15
+  - first:
+      213: 5837799558134002809
+    second: Volcarona_16
+  - first:
+      213: 4649856322750875626
+    second: Volcarona_17
+  - first:
+      213: -7895149401600946801
+    second: Volcarona_18
+  - first:
+      213: 6395909372203049273
+    second: Volcarona_19
+  - first:
+      213: 4143580145071240315
+    second: Volcarona_20
+  - first:
+      213: 3263244264708182541
+    second: Volcarona_21
+  - first:
+      213: -1400218780865718266
+    second: Volcarona_22
+  - first:
+      213: 5853172784443747571
+    second: Volcarona_23
+  - first:
+      213: -3572909765529774244
+    second: Volcarona_24
+  - first:
+      213: 1033683796678543084
+    second: Volcarona_25
+  - first:
+      213: -671106297708792201
+    second: Volcarona_26
+  - first:
+      213: -6366377603142478832
+    second: Volcarona_27
+  - first:
+      213: -5176054229048830070
+    second: Volcarona_28
+  - first:
+      213: 4022453341284161868
+    second: Volcarona_29
+  - first:
+      213: 7108960183802854308
+    second: Volcarona_30
+  - first:
+      213: -2224627167533662750
+    second: Volcarona_31
+  - first:
+      213: 7215677643056288070
+    second: Volcarona_32
+  - first:
+      213: 2840665314306499901
+    second: Volcarona_33
+  - first:
+      213: 8705677751433835171
+    second: Volcarona_34
+  - first:
+      213: 3358648082519313710
+    second: Volcarona_35
+  - first:
+      213: 1274608903486853698
+    second: Volcarona_36
+  - first:
+      213: -2383454105668867852
+    second: Volcarona_37
+  - first:
+      213: 4533989193288794140
+    second: Volcarona_38
+  - first:
+      213: 3840093621886176158
+    second: Volcarona_39
+  - first:
+      213: 6477801716408945150
+    second: Volcarona_40
+  - first:
+      213: -665723090381663609
+    second: Volcarona_41
+  - first:
+      213: 4851728664287232523
+    second: Volcarona_42
+  - first:
+      213: 1872531535538343071
+    second: Volcarona_43
+  - first:
+      213: 2172141621247864908
+    second: Volcarona_44
+  - first:
+      213: 8864518195250725344
+    second: Volcarona_45
+  - first:
+      213: -1304521708871169088
+    second: Volcarona_46
+  - first:
+      213: 1378682382329309769
+    second: Volcarona_47
+  - first:
+      213: -80244852438350716
+    second: Volcarona_48
+  - first:
+      213: -2025721021534053149
+    second: Volcarona_49
+  - first:
+      213: 1393756744038719029
+    second: Volcarona_50
+  - first:
+      213: -6701962498582997758
+    second: Volcarona_51
+  - first:
+      213: 879617640894889289
+    second: Volcarona_52
+  - first:
+      213: 8734753188750779750
+    second: Volcarona_53
+  - first:
+      213: 8176330247447855259
+    second: Volcarona_54
+  - first:
+      213: -8041681708031555428
+    second: Volcarona_55
+  - first:
+      213: 1735769877862490200
+    second: Volcarona_56
+  - first:
+      213: -2287922253596252768
+    second: Volcarona_57
+  - first:
+      213: -1943203688265804017
+    second: Volcarona_58
+  - first:
+      213: 5480662131466275720
+    second: Volcarona_59
+  - first:
+      213: -8901561646621432068
+    second: Volcarona_60
+  - first:
+      213: 3846820262979222938
+    second: Volcarona_61
+  - first:
+      213: 1864787696996048321
+    second: Volcarona_62
+  - first:
+      213: -8878187343036308467
+    second: Volcarona_63
+  - first:
+      213: 8290495440866087489
+    second: Volcarona_64
+  - first:
+      213: -6040421523332077456
+    second: Volcarona_65
+  - first:
+      213: -1293451536973781329
+    second: Volcarona_66
+  - first:
+      213: 9033819030510324116
+    second: Volcarona_67
+  - first:
+      213: 4431581607743976515
+    second: Volcarona_68
+  - first:
+      213: 1328434816824071813
+    second: Volcarona_69
+  - first:
+      213: -1007636996172511456
+    second: Volcarona_70
+  - first:
+      213: 4106238494935246119
+    second: Volcarona_71
+  - first:
+      213: 1571080764112863917
+    second: Volcarona_72
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Volcarona_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 823
+        width: 81
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cd465982db6b1320800000000000000
+      internalID: 2529734167690104256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcarona_1
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 831
+        width: 79
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9efa6074a99df65e0800000000000000
+      internalID: -1914072059969359895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcarona_2
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 830
+        width: 79
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b002fc888e9b9d90800000000000000
+      internalID: -7089898879047302989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcarona_3
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 830
+        width: 79
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e45b3eb1d81a3be0800000000000000
+      internalID: -1496856637028477726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcarona_4
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 828
+        width: 79
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed7a813b6b1a2f2d0800000000000000
+      internalID: -3246354575319848994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcarona_5
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 828
+        width: 81
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea2578b1309eb4fe0800000000000000
+      internalID: -1203612275835448658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcarona_6
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 826
+        width: 81
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8421f49ee56683dc0800000000000000
+      internalID: -3659062139411295672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcarona_7
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 826
+        width: 81
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3a4d4642d5c5cd40800000000000000
+      internalID: 5604102818245724731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcarona_8
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 733
+        width: 81
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeadb0d9f869581b0800000000000000
+      internalID: -5654948213534500118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcarona_9
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 733
+        width: 79
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34b56f0dd478fc020800000000000000
+      internalID: 2364257097680837443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcarona_10
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 731
+        width: 79
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e60f4da1a6b03e0800000000000000
+      internalID: -2086457338881872298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcarona_11
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 731
+        width: 79
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 330f1ee760080cf30800000000000000
+      internalID: 4593812385304801331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcarona_12
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 732
+        width: 79
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aee39319bcd6eabc0800000000000000
+      internalID: -3769955116980289814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcarona_13
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 732
+        width: 79
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdd4a80ff5056ed90800000000000000
+      internalID: -7068874192123703841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcarona_14
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 736
+        width: 79
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c1cedd23d76a01c0800000000000000
+      internalID: -4536699517917019705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcarona_15
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 736
+        width: 78
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c307e5063a1bd9cf0800000000000000
+      internalID: -243843489553551300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcarona_16
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 647
+        width: 78
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9747284a4c7040150800000000000000
+      internalID: 5837799558134002809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcarona_17
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 647
+        width: 78
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae78b2680bb978040800000000000000
+      internalID: 4649856322750875626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcarona_18
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 649
+        width: 78
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8d00f4137bce6290800000000000000
+      internalID: -7895149401600946801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcarona_19
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 649
+        width: 70
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93121c1efa5d2c850800000000000000
+      internalID: 6395909372203049273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcarona_20
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 648
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7435553034f08930800000000000000
+      internalID: 4143580145071240315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcarona_21
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 648
+        width: 61
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d02134d8e5f594d20800000000000000
+      internalID: 3263244264708182541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcarona_22
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 649
+        width: 61
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6081baeff6c619ce0800000000000000
+      internalID: -1400218780865718266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcarona_23
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 649
+        width: 55
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fce0c1d2a5aa3150800000000000000
+      internalID: 5853172784443747571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcarona_24
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 558
+        width: 54
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c57d2139f797a6ec0800000000000000
+      internalID: -3572909765529774244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcarona_25
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 558
+        width: 54
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce60a17bfe1685e00800000000000000
+      internalID: 1033683796678543084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcarona_26
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 557
+        width: 52
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7763a8eb060cfa6f0800000000000000
+      internalID: -671106297708792201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcarona_27
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 557
+        width: 52
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01490baec4516a7a0800000000000000
+      internalID: -6366377603142478832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcarona_28
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 557
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a87d2634a16fa28b0800000000000000
+      internalID: -5176054229048830070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcarona_29
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 557
+        width: 54
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4953d48000a2d730800000000000000
+      internalID: 4022453341284161868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcarona_30
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 557
+        width: 54
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4abf6fd4f9918a260800000000000000
+      internalID: 7108960183802854308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcarona_31
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 557
+        width: 63
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2edf871b0698021e0800000000000000
+      internalID: -2224627167533662750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcarona_32
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 467
+        width: 63
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6411918069c332460800000000000000
+      internalID: 7215677643056288070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcarona_33
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 467
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3523098d021c6720800000000000000
+      internalID: 2840665314306499901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcarona_34
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 466
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a23c3f4ac7c0d870800000000000000
+      internalID: 8705677751433835171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcarona_35
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 466
+        width: 78
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2d4c1cd2a05c9e20800000000000000
+      internalID: 3358648082519313710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcarona_36
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 467
+        width: 78
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24252e76b0250b110800000000000000
+      internalID: 1274608903486853698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcarona_37
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 467
+        width: 79
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f829257e154ceed0800000000000000
+      internalID: -2383454105668867852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcarona_38
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 466
+        width: 79
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1040713627fbee30800000000000000
+      internalID: 4533989193288794140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcarona_39
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 466
+        width: 79
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9bc4ccadc0ca4530800000000000000
+      internalID: 3840093621886176158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcarona_40
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 373
+        width: 79
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef988f71756c5e950800000000000000
+      internalID: 6477801716408945150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcarona_41
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 373
+        width: 81
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 782960f5060e2c6f0800000000000000
+      internalID: -665723090381663609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcarona_42
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 371
+        width: 81
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b02cb6db38dc45340800000000000000
+      internalID: 4851728664287232523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcarona_43
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 371
+        width: 81
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9cca7ea2819cf910800000000000000
+      internalID: 1872531535538343071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcarona_44
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 369
+        width: 81
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c40f158cb4ff42e10800000000000000
+      internalID: 2172141621247864908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcarona_45
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 369
+        width: 79
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e108e41558150b70800000000000000
+      internalID: 8864518195250725344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcarona_46
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 367
+        width: 79
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cbc2fcda6865ede0800000000000000
+      internalID: -1304521708871169088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcarona_47
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 367
+        width: 78
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94ae3d87250122310800000000000000
+      internalID: 1378682382329309769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcarona_48
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 277
+        width: 79
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 484cb5b5bb9e2eef0800000000000000
+      internalID: -80244852438350716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcarona_49
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 277
+        width: 79
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ecdb61b67133e3e0800000000000000
+      internalID: -2025721021534053149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcarona_50
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 281
+        width: 79
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53e9bbfcf5e975310800000000000000
+      internalID: 1393756744038719029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcarona_51
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 281
+        width: 78
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20598f5bd98ddf2a0800000000000000
+      internalID: -6701962498582997758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcarona_52
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 283
+        width: 78
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94df4bf7597053c00800000000000000
+      internalID: 879617640894889289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcarona_53
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 283
+        width: 78
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66563381fb3183970800000000000000
+      internalID: 8734753188750779750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcarona_54
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 285
+        width: 78
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b90496d3a09287170800000000000000
+      internalID: 8176330247447855259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcarona_55
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 285
+        width: 70
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c98c50cd715366090800000000000000
+      internalID: -8041681708031555428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcarona_56
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 193
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85021d5e181b61810800000000000000
+      internalID: 1735769877862490200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcarona_57
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 193
+        width: 61
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a52fa015daaf30e0800000000000000
+      internalID: -2287922253596252768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcarona_58
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 194
+        width: 61
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0710b28a8a5805e0800000000000000
+      internalID: -1943203688265804017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcarona_59
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 194
+        width: 55
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88b8bf7bb293f0c40800000000000000
+      internalID: 5480662131466275720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcarona_60
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 194
+        width: 54
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf663ea48dc477480800000000000000
+      internalID: -8901561646621432068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcarona_61
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 194
+        width: 54
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9db6a9d5a6a26530800000000000000
+      internalID: 3846820262979222938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcarona_62
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 193
+        width: 52
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cdd7f4c78e01e910800000000000000
+      internalID: 1864787696996048321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcarona_63
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 193
+        width: 52
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d04a3f076a75ac480800000000000000
+      internalID: -8878187343036308467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcarona_64
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 102
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14291d4bda1cd0370800000000000000
+      internalID: 8290495440866087489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcarona_65
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 102
+        width: 54
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 078ea28c0ac1c2ca0800000000000000
+      internalID: -6040421523332077456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcarona_66
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 102
+        width: 54
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa6ae7c1eacbc0ee0800000000000000
+      internalID: -1293451536973781329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcarona_67
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 102
+        width: 63
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4994bb68b829e5d70800000000000000
+      internalID: 9033819030510324116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcarona_68
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 0
+        width: 309
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 344fbb22ef3208d30800000000000000
+      internalID: 4431581607743976515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcarona_69
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 103
+        width: 63
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5865f047d6c8f6210800000000000000
+      internalID: 1328434816824071813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcarona_70
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 103
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 027889c9d772402f0800000000000000
+      internalID: -1007636996172511456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcarona_71
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 102
+        width: 78
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72566a5c72a4cf830800000000000000
+      internalID: 4106238494935246119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volcarona_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 223
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da2856a81a99dc510800000000000000
+      internalID: 1571080764112863917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 91aef459163be334b804bbb4765a828b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Volcarona_0: 2529734167690104256
+      Volcarona_1: -1914072059969359895
+      Volcarona_10: -2086457338881872298
+      Volcarona_11: 4593812385304801331
+      Volcarona_12: -3769955116980289814
+      Volcarona_13: -7068874192123703841
+      Volcarona_14: -4536699517917019705
+      Volcarona_15: -243843489553551300
+      Volcarona_16: 5837799558134002809
+      Volcarona_17: 4649856322750875626
+      Volcarona_18: -7895149401600946801
+      Volcarona_19: 6395909372203049273
+      Volcarona_2: -7089898879047302989
+      Volcarona_20: 4143580145071240315
+      Volcarona_21: 3263244264708182541
+      Volcarona_22: -1400218780865718266
+      Volcarona_23: 5853172784443747571
+      Volcarona_24: -3572909765529774244
+      Volcarona_25: 1033683796678543084
+      Volcarona_26: -671106297708792201
+      Volcarona_27: -6366377603142478832
+      Volcarona_28: -5176054229048830070
+      Volcarona_29: 4022453341284161868
+      Volcarona_3: -1496856637028477726
+      Volcarona_30: 7108960183802854308
+      Volcarona_31: -2224627167533662750
+      Volcarona_32: 7215677643056288070
+      Volcarona_33: 2840665314306499901
+      Volcarona_34: 8705677751433835171
+      Volcarona_35: 3358648082519313710
+      Volcarona_36: 1274608903486853698
+      Volcarona_37: -2383454105668867852
+      Volcarona_38: 4533989193288794140
+      Volcarona_39: 3840093621886176158
+      Volcarona_4: -3246354575319848994
+      Volcarona_40: 6477801716408945150
+      Volcarona_41: -665723090381663609
+      Volcarona_42: 4851728664287232523
+      Volcarona_43: 1872531535538343071
+      Volcarona_44: 2172141621247864908
+      Volcarona_45: 8864518195250725344
+      Volcarona_46: -1304521708871169088
+      Volcarona_47: 1378682382329309769
+      Volcarona_48: -80244852438350716
+      Volcarona_49: -2025721021534053149
+      Volcarona_5: -1203612275835448658
+      Volcarona_50: 1393756744038719029
+      Volcarona_51: -6701962498582997758
+      Volcarona_52: 879617640894889289
+      Volcarona_53: 8734753188750779750
+      Volcarona_54: 8176330247447855259
+      Volcarona_55: -8041681708031555428
+      Volcarona_56: 1735769877862490200
+      Volcarona_57: -2287922253596252768
+      Volcarona_58: -1943203688265804017
+      Volcarona_59: 5480662131466275720
+      Volcarona_6: -3659062139411295672
+      Volcarona_60: -8901561646621432068
+      Volcarona_61: 3846820262979222938
+      Volcarona_62: 1864787696996048321
+      Volcarona_63: -8878187343036308467
+      Volcarona_64: 8290495440866087489
+      Volcarona_65: -6040421523332077456
+      Volcarona_66: -1293451536973781329
+      Volcarona_67: 9033819030510324116
+      Volcarona_68: 4431581607743976515
+      Volcarona_69: 1328434816824071813
+      Volcarona_7: 5604102818245724731
+      Volcarona_70: -1007636996172511456
+      Volcarona_71: 4106238494935246119
+      Volcarona_72: 1571080764112863917
+      Volcarona_8: -5654948213534500118
+      Volcarona_9: 2364257097680837443
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

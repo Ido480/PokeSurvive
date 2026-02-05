@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eabfde241da44f64999f969fed387f90, type: 3}
+  m_Name: Data_Lugia
+  m_EditorClassIdentifier: Assembly-CSharp::EnemyData
+  enemyName: Lugia
+  maxHealth: 1000
+  moveSpeed: 2.5
+  damage: 20
+  expValue: 500
+  pushTime: 0
+  prefab: {fileID: 7887950058276820301, guid: 190a90bca9a936341b1cc5ab73b9e027, type: 3}
+  coinValue: 75
+  dropChance: 100

@@ -1,0 +1,858 @@
+fileFormatVersion: 2
+guid: e8d03705b81d8fd478c9522c5afcd8e6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8109796053092889088
+    second: Ditto_0
+  - first:
+      213: -6203394676094108535
+    second: Ditto_1
+  - first:
+      213: -2328672450907188755
+    second: Ditto_2
+  - first:
+      213: 5143268306044736933
+    second: Ditto_3
+  - first:
+      213: -2786730235083296201
+    second: Ditto_4
+  - first:
+      213: -7984252894587792283
+    second: Ditto_5
+  - first:
+      213: -8697485989228617001
+    second: Ditto_6
+  - first:
+      213: -2493631465775040501
+    second: Ditto_7
+  - first:
+      213: 3755757336141274830
+    second: Ditto_8
+  - first:
+      213: 8825682611415169351
+    second: Ditto_9
+  - first:
+      213: -9221883313562952978
+    second: Ditto_10
+  - first:
+      213: -106931438160066369
+    second: Ditto_11
+  - first:
+      213: 3867760561616514522
+    second: Ditto_12
+  - first:
+      213: -2246546854138253750
+    second: Ditto_13
+  - first:
+      213: 5043847446056473221
+    second: Ditto_14
+  - first:
+      213: -6458238171519274690
+    second: Ditto_15
+  - first:
+      213: -2566474620248555482
+    second: Ditto_16
+  - first:
+      213: -4451899217515645179
+    second: Ditto_17
+  - first:
+      213: 631021674427375490
+    second: Ditto_18
+  - first:
+      213: -3820169622758597576
+    second: Ditto_19
+  - first:
+      213: -6240542892023232126
+    second: Ditto_20
+  - first:
+      213: 1686261564077684840
+    second: Ditto_21
+  - first:
+      213: 7870541914396400139
+    second: Ditto_22
+  - first:
+      213: 4250749479192970866
+    second: Ditto_23
+  - first:
+      213: 1900310415664533716
+    second: Ditto_24
+  - first:
+      213: 5710757988556654102
+    second: Ditto_25
+  - first:
+      213: 7908059543989545922
+    second: Ditto_26
+  - first:
+      213: 3755763543312707578
+    second: Ditto_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ditto_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 35
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0027771fa88cb8070800000000000000
+      internalID: 8109796053092889088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ditto_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 35
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98c7cd9b86d19e9a0800000000000000
+      internalID: -6203394676094108535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ditto_2
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 35
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de150756eb4eeafd0800000000000000
+      internalID: -2328672450907188755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ditto_3
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 35
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a5525e264f806740800000000000000
+      internalID: 5143268306044736933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ditto_4
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 35
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 732f40dad9b8359d0800000000000000
+      internalID: -2786730235083296201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ditto_5
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 35
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 564d5357b4c323190800000000000000
+      internalID: -7984252894587792283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ditto_6
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 35
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d26715f2925c4780800000000000000
+      internalID: -8697485989228617001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ditto_7
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 35
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b08fdb9c467d46dd0800000000000000
+      internalID: -2493631465775040501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ditto_8
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 35
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ece944bf5612f1430800000000000000
+      internalID: 3755757336141274830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ditto_9
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 35
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7493eb9139f1b7a70800000000000000
+      internalID: 8825682611415169351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ditto_10
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 35
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eea5af66cf9450080800000000000000
+      internalID: -9221883313562952978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ditto_11
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 35
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb8c52d6c6a148ef0800000000000000
+      internalID: -106931438160066369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ditto_12
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 35
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: addea6f0dbb0da530800000000000000
+      internalID: 3867760561616514522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ditto_13
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 35
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4e61d3f989a2d0e0800000000000000
+      internalID: -2246546854138253750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ditto_14
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 35
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 582157b57885ff540800000000000000
+      internalID: 5043847446056473221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ditto_15
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 35
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e31b9b7a99abf56a0800000000000000
+      internalID: -6458238171519274690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ditto_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 44
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 620870f3eec026cd0800000000000000
+      internalID: -2566474620248555482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ditto_17
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 0
+        width: 47
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 507f324bf3da732c0800000000000000
+      internalID: -4451899217515645179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ditto_18
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 49
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28fd0dd9ed6d1c800800000000000000
+      internalID: 631021674427375490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ditto_19
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 0
+        width: 47
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83c5cbdd7f70cfac0800000000000000
+      internalID: -3820169622758597576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ditto_20
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 0
+        width: 45
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 289cd53bd432569a0800000000000000
+      internalID: -6240542892023232126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ditto_21
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 0
+        width: 43
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 868be3555fdc66710800000000000000
+      internalID: 1686261564077684840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ditto_22
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 0
+        width: 41
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0a9b65db28c93d60800000000000000
+      internalID: 7870541914396400139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ditto_23
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 0
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27649704122bdfa30800000000000000
+      internalID: 4250749479192970866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ditto_24
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 0
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d0d8a831424f5a10800000000000000
+      internalID: 1900310415664533716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ditto_25
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 616c42a3220b04f40800000000000000
+      internalID: 5710757988556654102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ditto_26
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 0
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cb622ea1421fbd60800000000000000
+      internalID: 7908059543989545922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ditto_27
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 0
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aff24833b072f1430800000000000000
+      internalID: 3755763543312707578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Ditto_0: 8109796053092889088
+      Ditto_1: -6203394676094108535
+      Ditto_10: -9221883313562952978
+      Ditto_11: -106931438160066369
+      Ditto_12: 3867760561616514522
+      Ditto_13: -2246546854138253750
+      Ditto_14: 5043847446056473221
+      Ditto_15: -6458238171519274690
+      Ditto_16: -2566474620248555482
+      Ditto_17: -4451899217515645179
+      Ditto_18: 631021674427375490
+      Ditto_19: -3820169622758597576
+      Ditto_2: -2328672450907188755
+      Ditto_20: -6240542892023232126
+      Ditto_21: 1686261564077684840
+      Ditto_22: 7870541914396400139
+      Ditto_23: 4250749479192970866
+      Ditto_24: 1900310415664533716
+      Ditto_25: 5710757988556654102
+      Ditto_26: 7908059543989545922
+      Ditto_27: 3755763543312707578
+      Ditto_3: 5143268306044736933
+      Ditto_4: -2786730235083296201
+      Ditto_5: -7984252894587792283
+      Ditto_6: -8697485989228617001
+      Ditto_7: -2493631465775040501
+      Ditto_8: 3755757336141274830
+      Ditto_9: 8825682611415169351
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
